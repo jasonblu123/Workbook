@@ -5,3 +5,22 @@
     margin: 0;
     font-family: 'Barlow', sans-serif;
 }
+
+.header {
+    text-align: center;
+    padding: 20px;
+    font-size: 40px;
+    background-color: rgba(0, 119, 255, 0.671);
+    text-decoration: underline;
+    color: white;
+}
+
+.questions h3 {
+    padding: 30px;
+}
+
+.questions p {
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 5px;
+}
